@@ -1,9 +1,9 @@
-class  Hello
+class Hello
 {
 	public static void main(String[] args) 
 	{
 			
-		System.out.println(â€œæˆ‘çˆ±è€å©†â€);
+		System.out.println("ÎÒ°®ÀÏÆÅ");
 		System.out.println("Hello World233333!");
 	}
 }
